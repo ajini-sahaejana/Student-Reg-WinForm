@@ -1,0 +1,5 @@
+C:\Users\Ajini Sahejana\Source\Repos\Student-Reg-WinForm\obj\Debug\E6.csprojAssemblyReference.cache
+C:\Users\Ajini Sahejana\Source\Repos\Student-Reg-WinForm\obj\Debug\E6.Computing_Student.resources
+C:\Users\Ajini Sahejana\Source\Repos\Student-Reg-WinForm\obj\Debug\E6.Engineering_Student.resources
+C:\Users\Ajini Sahejana\Source\Repos\Student-Reg-WinForm\obj\Debug\E6.Student.resources
+C:\Users\Ajini Sahejana\Source\Repos\Student-Reg-WinForm\obj\Debug\E6.csproj.GenerateResource.cache
